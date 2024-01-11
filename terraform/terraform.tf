@@ -11,8 +11,8 @@
       source  = "hashicorp/aws"
       version = "3.74.0"
     }
-  }
-}
+  
+
 
     random = {
       source  = "hashicorp/random"
